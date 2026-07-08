@@ -1,3 +1,7 @@
+---
+icon: circle-info
+---
+
 # Historia do ArvenR
 
 Sejam todos bem-vindos à cidade de **Arven RP**, um espaço criado para proporcionar uma experiência equilibrada entre **50% PvP e 50% RP**, séria, divertida e imersiva para toda a comunidade.
