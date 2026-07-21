@@ -17,11 +17,12 @@ icon: gun
 
 #### Limites Específicos por Tipo de Assalto
 
-| Tipo          | Bandidos | Reféns | Polícia      | Veículos Fuga |
-| ------------- | -------- | ------ | ------------ | ------------- |
-| ATM           | 1-4      | ❌      | Não aguardam | 1             |
-| Lojinha       | 2-4      | Mín. 1 | 3-8          | 1             |
-| Joalharia     | 3-6      | Mín. 1 | 3-12         | 2             |
-| Banco Flecca  | 3-4      | Mín. 1 | 3-8          | 1             |
-| Banco Central | Mín. 6   | Mín. 3 | Mín. 8       | 4             |
+| Tipo              | Bandidos | Reféns | Polícia      | Veículos Fuga |
+| ----------------- | -------- | ------ | ------------ | ------------- |
+| ATM               | 1-4      | ❌      | Não aguardam | 1             |
+| Camião de Valores | 1-4      | ❌      | 3-8          | 1             |
+| Lojinha           | 2-4      | Mín. 1 | 3-8          | 1             |
+| Joalharia         | 3-6      | Mín. 1 | 5-12         | 2             |
+| Banco Flecca      | 3-4      | Mín. 1 | 3-8          | 1             |
+| Banco Central     | Mín. 6   | Mín. 3 | Mín. 8       | 4             |
 
