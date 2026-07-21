@@ -22,14 +22,14 @@ icon: face-sunglasses
 
 #### Safe Zones
 
-* Safe Zones: é proibido iniciar qualquer forma de RP agressivo (roubo, rapto, confronto armado) nestas zonas. Lista completa: Casino (interior), hospital (interior e exterior), mecânicas, empregos legais e área envolvente, esquadras de polícia, prisão (todo o recinto), interior de lojas/bancos fora de assalto, garagens, postos de combustível, Burgershot, Vanilla Unicorn, Bahamas, área de caça, casas, GP central (Rectangulo Azul no mapa marcado).
+* Safe Zones: é proibido iniciar qualquer forma de RP agressivo (roubo, rapto, confronto armado) nestas zonas. Lista completa: Casino (interior), hospital (interior e exterior), mecânicas, empregos legais e área envolvente, esquadras de polícia, prisão (todo o recinto), interior de lojas/bancos fora de assalto, garagens, postos de combustível, Burgershot, Vanilla Unicorn, Bahamas, área de caça, casas, GP central.
 * Exceção única: se o RP foi iniciado fora da safe zone e decorreu naturalmente para dentro, o RP pode continuar — com clip obrigatório. Jogadores com máscara, arma ilegal visível ou dinheiro sujo visível podem ser abordados mesmo em safe zones (exceto Garagem da /arena).
 * Proibido raptar ou iniciar RP agressivo contra o EMS
 
 #### Roubo de Civis e Veículos
 
 * Roubo de Civis (Fora de Redzone): Apenas permitido se o civil usar máscara/capacete que cubra o rosto ou se transportar itens ilegais identificáveis (se for este o caso, podes roubar tudo, incluindo o veículo). Atenção: Se o civil estiver em andamento ou parado de mota, o uso do capacete é obrigatório por lei, logo não pode ser usado como desculpa para o assaltar!
-* Roubo de veículos: apenas permitido se o condutor ou veiculo transportar itens ilegais ou usar máscara que cubra o rosto. Também é permitido roubar carros abandonados fora das safe zones (incluído bagageiras). Veículos de emergência do SAMS nunca podem ser roubados. Veículos de polícia e mecânicos só podem ser roubados com RP elaborado documentado.
+* Roubo de veículos: apenas permitido se o condutor ou veiculo transportar itens ilegais ou usar máscara que cubra o rosto. Também é permitido roubar carros abandonados fora das safe zones (incluído bagageiras). Veículos de emergência da LSPD e EMS nunca podem ser roubados.
 * É proibido roubar carteiras, documentos de identificação ou itens que não estejam fisicamente no inventário do jogador. (Exceção: a carteira pode ser confiscada temporariamente apenas para verificar a existência de dinheiro).
 * Proibido forçar o jogador a deslocar-se a casa, garagem, ou banco para entregar bens.
 * Durante o roubo: o veículo da vítima deve ser desbloqueado (o jogador deve colaborar). Atenção: o dinheiro em bolso pode ser roubado — os jogadores são responsáveis por não andar com grandes quantias.

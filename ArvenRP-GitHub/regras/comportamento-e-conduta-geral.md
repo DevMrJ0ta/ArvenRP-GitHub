@@ -19,10 +19,7 @@ icon: triangle-exclamation
 #### Uso de Personagem
 
 * A personagem deve ter aparência personalizada — é proibido usar o modelo padrão do jogo.
-* SenseRP de identidade: uma personagem não pode transitar entre organizações opostas sem RP de transição credível. Mudar de organização ilegal para forças de segurança ou vice-versa exige devido RP e respetivo cooldown (mínimo 2 dias). Podes consultar o cooldown através do comando (/vercooldown).
-* Independentemente das personagens que tiveres, é totalmente proibido ter uma conta no legal e outra no ilegal, ou estar registado em empresas diferentes. Quem for apanhado com este desdobramento perde os trabalhos automaticamente (Pode levar CK em ambas as contas).
-* É proibido a utilização da Musket em qualquer spot que não seja spot de caça.
-* É proibido ter trabalho whitelisted em outro servidor caso já possua trabalho whitelisted.
+* SenseRP de identidade: Uma personagem não pode transitar entre organizações opostas sem RP de transição credível. Mudar de organização ilegal para as forças de segurança (ou vice-versa) exige o devido RP e um cooldown mínimo de **3 dias**.
 
 #### Economia e Preçário
 

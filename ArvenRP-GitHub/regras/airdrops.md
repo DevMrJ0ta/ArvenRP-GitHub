@@ -4,7 +4,7 @@ icon: box-open-full
 
 # Airdrops
 
-AIRDROP - cai em alguns pontos aleatórios da cidade, todos junto às praias.
+AIRDROP - Na Ilha da Morte
 
 FULL PVP, proibido ir para dentro de água após coletar os itens do drop.
 
