@@ -1,3 +1,7 @@
+---
+icon: sack-dollar
+---
+
 # Preçario Legal/Ilegal
 
 {% tabs %}
