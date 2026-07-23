@@ -20,4 +20,4 @@
 
 ## Preçário
 
-* [Page 2](precario/page-2.md)
+* [Preçario Legal/Ilegal](precario/precario-legal-ilegal.md)
