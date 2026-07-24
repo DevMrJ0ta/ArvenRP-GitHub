@@ -119,7 +119,7 @@ icon: sack-dollar
 
 | Serviço                           | Percentagem mínima | Percentagem máxima |
 | --------------------------------- | -----------------: | -----------------: |
-| Lavagem por cada 1.000.000€ sujos |            **10%** |            **15%** |
+| Lavagem por cada 1.000.000€ sujos |              **%** |              **%** |
 
 | Acessório            | Preço mínimo | Preço máximo |
 | -------------------- | -----------: | -----------: |
