@@ -60,25 +60,25 @@ icon: sack-dollar
 
 | Armamento Pesado       | Preço Minimo | Preço Máximo |
 | ---------------------- | ------------ | ------------ |
-| Double Action Revolver | 675 000€     | 750 000€     |
-| Compact Rifle          | 340 000€     | 375 000€     |
-| Assault Rifle          | 360 000€     | 400 000€     |
-| Bullpup Rifle          | 360 000€     | 400 000€     |
-| Special Carbine        | 385 000€     | 425 000€     |
-| Assault Rifle MK2      | 540 000€     | 600 000€     |
-| Bullpup Rifle MK2      | 540 000€     | 600 000€     |
-| Special Carbine MK2    | 585 000€     | 650 000€     |
+| Double Action Revolver | 675 000€     | 400 000€     |
+| Compact Rifle          | 650 000€     | 850 000€     |
+| Assault Rifle          | 750 000€     | 1 000 000€   |
+| Bullpup Rifle          | 750 000€     | 1 000 000€   |
+| Special Carbine        | 750 000€     | 1 000 000€   |
+| Assault Rifle MK2      | 650 000€     | 850 000€     |
+| Bullpup Rifle MK2      | 650 000€     | 1 000 000€   |
+| Special Carbine MK2    | 750 000€     | 650 000€     |
 
 #### Armamento Leve
 
 | Armamento Leve | Preço Minimo | Preço Máximo |
 | -------------- | ------------ | ------------ |
-| Mini SMG       | 235 000€     | 260 000€     |
-| Machine Pistol | 235 000€     | 260 000€     |
-| Combat PDW     | 250 000€     | 275 000€     |
-| AP Pistol      | 225 000€     | 250 000€     |
-| Micro SMG      | 250 000€     | 280 000€     |
-| Pistol .50     | 270 000€     | 300 000€     |
+| Mini SMG       | 435 000€     | 560 000€     |
+| Machine Pistol | 335 000€     | 560 000€     |
+| Combat PDW     | 350 000€     | 575 000€     |
+| AP Pistol      | 325 000€     | 550 000€     |
+| Micro SMG      | 350 000€     | 580 000€     |
+| Pistol .50     | 370 000€     | 500 000€     |
 
 #### Munição
 
