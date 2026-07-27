@@ -33,7 +33,7 @@ icon: sack-dollar
 
 #### Mineração
 
-* Pedro = 30€
+* Pedra = 30€
 * Carbono = 40€
 * Chumbo = 60€
 * Iron = 90€
@@ -60,14 +60,14 @@ icon: sack-dollar
 
 | Armamento Pesado       | Preço Minimo | Preço Máximo |
 | ---------------------- | ------------ | ------------ |
-| Double Action Revolver | 675 000€     | 400 000€     |
+| Double Action Revolver | 340 000€     | 400 000€     |
 | Compact Rifle          | 650 000€     | 850 000€     |
 | Assault Rifle          | 750 000€     | 1 000 000€   |
 | Bullpup Rifle          | 750 000€     | 1 000 000€   |
 | Special Carbine        | 750 000€     | 1 000 000€   |
 | Assault Rifle MK2      | 650 000€     | 850 000€     |
-| Bullpup Rifle MK2      | 650 000€     | 1 000 000€   |
-| Special Carbine MK2    | 750 000€     | 650 000€     |
+| Bullpup Rifle MK2      | 650 000€     | 850 000€     |
+| Special Carbine MK2    | 750 000€     | 1 000 000€   |
 
 #### Armamento Leve
 
