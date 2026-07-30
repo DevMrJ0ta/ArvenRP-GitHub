@@ -12,7 +12,7 @@
 * [Comportamento e Conduta Geral](regras/comportamento-e-conduta-geral.md)
 * [RP Agressivo](regras/rp-agressivo.md)
 * [Assaltos (Lojas, Bancos, Joalharia, ATM)](regras/assaltos-lojas-bancos-joalharia-atm.md)
-* [Organizações, Bairros e Redzones](regras/organizacoes-bairros-e-redzones.md)
+* [Organizações, Bairros, Redzones e Dominações](regras/organizacoes-bairros-redzones-e-dominacoes.md)
 * [Discord](regras/discord.md)
 * [Propriedades, Veículos e Empresas](regras/propriedades-veiculos-e-empresas.md)
 * [LSPD & EMS](regras/lspd-and-ems.md)
