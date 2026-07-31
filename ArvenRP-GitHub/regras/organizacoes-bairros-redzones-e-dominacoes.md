@@ -106,7 +106,7 @@ icon: arrows-to-circle
 
 ### ⏱️ Cooldown de Rusgas
 
-* O cooldown entre rusgas ao **mesmo spot é de 1 hora**.
+* O cooldown entre rusgas ao **mesmo spot é de 15 hora**.
 * Depois de uma rusga terminar, os jogadores apenas poderão regressar ao local após **1 hora**.
 
 ***
